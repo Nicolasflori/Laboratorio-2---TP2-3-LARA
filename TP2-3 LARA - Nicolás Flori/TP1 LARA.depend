@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1590148458 source:c:\users\i866851\desktop\tp1 lara\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	"rlutil.h"
+	"funciones.h"
+	"plato.h"
+	"cuadro.h"
+	"clientes.h"
+	"pedidos.h"
+	"config.h"
+	"reportes.h"
+
+1588585328 c:\users\i866851\desktop\tp1 lara\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1589275025 c:\users\i866851\desktop\tp1 lara\funciones.h
+	"cuadro.h"
+
+1588599524 c:\users\i866851\desktop\tp1 lara\cuadro.h
+	<windows.h>
+	<stdio.h>
+
+1590149265 c:\users\i866851\desktop\tp1 lara\plato.h
+	"funciones.h"
+	"cuadro.h"
+
+1590151779 c:\users\i866851\desktop\tp1 lara\clientes.h
+	"funciones.h"
+	"cuadro.h"
+
+1590150832 c:\users\i866851\desktop\tp1 lara\pedidos.h
+	"funciones.h"
+	"cuadro.h"
+	"clientes.h"
+	"plato.h"
+
+1590146951 c:\users\i866851\desktop\tp1 lara\config.h
+	"funciones.h"
+	"cuadro.h"
+	"plato.h"
+	"clientes.h"
+	"pedidos.h"
+
+1590147078 c:\users\i866851\desktop\tp1 lara\reportes.h
+	"funciones.h"
+	"cuadro.h"
+
